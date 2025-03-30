@@ -21,3 +21,5 @@ Darkness Shop: https://discord.gg/8wsUdq3waT
 5. `open File Explorer app`
 6. `goto C:\Users\<your name>\Darkness-Nucker-V2.2.2`
 7. `open Darkness-V2.2.2.exe app`
+
+» For better result make more than 50 channels
