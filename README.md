@@ -1,13 +1,10 @@
-# CodeX Nucker V2.2.2
+# Darkness Nuker V2.2.2
 
 Developed By MmdPsycho
 
 MmdPsycho's Social Medias : Discord, Telegram, Instagram = mmd1ps
 
 For more tools join our discord
-
-CodeX Community: https://discord.gg/u9FYVzUNN6
-
 
 # How to install
 
